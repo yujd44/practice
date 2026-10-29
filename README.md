@@ -2,4 +2,4 @@ exercie number one
 trying pull request
 
 I am on my new branch and we will do some changes here
-MAIN BRANCH/ CREATING CONFLICT
+NEW BRUCNH/CREATING CONFLICT
